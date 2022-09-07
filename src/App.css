@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+@font-face {
+    font-family: Hatton;
+    src: url(assets/fonts/PP\ Hatton\ Medium\ 500.otf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Hatton;
+    src: url(assets/fonts/PP\ Hatton\ Bold\ 700.otf);
+    font-weight: 700;
+}
+
+.footerContainer{
+    background-position: 0% 20%;
+}
